@@ -1,3 +1,0 @@
-lib 1
-
-change lib1 in proj---B
